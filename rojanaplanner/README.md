@@ -8,6 +8,8 @@ Rojana (रोज़ाना, "every day") gives you a full paper-style planner
 plan the year, break it into quarters, months and weeks, and run each day with a schedule, top priorities,
 notes and a reflection page. An optional journal waits at the end of every day.
 
+<p><img src="screenshots/01.png" width="200"> <img src="screenshots/02.png" width="200"> <img src="screenshots/04.png" width="200"> <img src="screenshots/05.png" width="200"></p>
+
 ## Features
 
 | Page | What you can do |
