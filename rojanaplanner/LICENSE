@@ -1,0 +1,43 @@
+Rojana Planner
+Copyright (c) 2026 Vrishali Labs, Bengaluru, India. All rights reserved.
+
+This software, including its source code, compiled application, icons, graphics and
+documentation (together, "the Software"), is the proprietary property of Vrishali Labs.
+
+1. Licence to use the app. Vrishali Labs grants you a personal, non-exclusive,
+   non-transferable, revocable licence to install and use the Rojana Planner app,
+   obtained from Google Play or another channel authorised by Vrishali Labs, on
+   devices you own or control, for your personal or internal business use.
+
+2. Restrictions. Except where applicable law expressly permits it, you may not:
+   (a) copy, modify, translate or create derivative works of the Software;
+   (b) redistribute, sell, rent, lease, sublicense or publish the Software or any
+       part of it, including the source code;
+   (c) decompile, reverse-engineer or disassemble the Software;
+   (d) remove or alter any copyright, trademark or other notices.
+
+3. Your content. Everything you write in the app belongs to you. It is stored only
+   on your device; Vrishali Labs does not receive it.
+
+4. Trademarks. "Rojana Planner", "Vrishali Labs" and their logos are trademarks of
+   Vrishali Labs. No right to use them is granted.
+
+5. No warranty. The Software is provided "as is", without warranty of any kind,
+   express or implied, including warranties of merchantability, fitness for a
+   particular purpose and non-infringement.
+
+6. Limitation of liability. To the maximum extent permitted by law, Vrishali Labs is
+   not liable for any indirect, incidental, special or consequential damages, or for
+   any loss of data, arising from the use of or inability to use the Software. Please
+   keep backups of your planner using the app's export feature.
+
+7. Termination. This licence ends automatically if you breach it. On termination you
+   must stop using and delete the Software.
+
+8. Governing law. This licence is governed by the laws of India. Courts at Bengaluru,
+   Karnataka have exclusive jurisdiction.
+
+Third-party components: the Kotlin standard library (Apache License 2.0) and the
+Pinyon Script letterform used in the app icon (SIL Open Font License 1.1).
+
+Contact: support@vrishalilabs.com
